@@ -12,14 +12,14 @@ LOCK from D2S1 (identity — do NOT invent, restyle, or reinterpret):
 • Face shape, eyes, brows, nose, mouth — same person as D2S1.
 • Hair: EXACT same length, cut, color, and signature details as in the D2S1 image. Do not decide "long vs short" yourself — only copy what D2S1 already shows.
 • Skin: same base as D2S1 — natural fair with warm light-yellow / light-beige undertone (自然白皮偏黄). Neon/hologram/phone glow may add rim light on cheeks/edges ONLY; the face itself must still read as the same warm-fair skin as D2S1 — NOT bluish-white porcelain, NOT grey, NOT orange-tanned.
-• Outfit: same clothes and signature details as D2S1 (colors, silhouette). Daytime/evening casual wear matching D2S1 — not sleepwear as a costume change. analogyDomain props go in the BACKGROUND only — do NOT re-dress the character into a new uniform or new color scheme.
+• Outfit: same clothes and signature details as D2S1 (colors, silhouette). Use daytime/evening casual wear matching D2S1, not sleepwear. analogyDomain props go in the BACKGROUND only — do NOT re-dress the character into a new uniform or new color scheme.
 • Age band, body type, illustration style — match D2S1.
 • Do NOT redesign the protagonist. Do NOT change gender. Do NOT swap Sam ↔ Lily.
 
 MUST CHANGE from D2S1 (composition only — setting / camera / pose). Changing these must NOT change hair, face, skin base, or outfit identity:
-• Different setting — THIS CHAPTER is backup for hard moments / if→then response (not D3S1 drawer-rule calendar, not D3S3 cue-tidy desk, not D2S3 moon-bedtime as main motif, not doomscroll spiral). Use sofa, desk edge, hallway, waiting spot, or propped evening rest in the SAME genre world. Soft analogy props OK in background; do not restyle the character.
-• Different camera — e.g. closer on hands+phone impulse vs backup action; slight side angle; or wider shot that shows clear if→then flow left-to-right.
-• Different pose — e.g. mid-reach toward phone then pausing; one slow breath beat; then choosing a planned next action — match D3S2 backup mood, not D3S1 placing phone in drawer as the whole story, not D2S5 tiny pause alone without a planned backup.
+• Different setting — THIS CHAPTER is backup for hard moments / if-then response (not D3S1 drawer-rule calendar, not cue-reduction desk tidy, not bedtime bed, not doomscroll spiral). Use sofa, desk edge, hallway, or waiting spot in the SAME genre world. Soft analogy props OK in background; do not restyle the character.
+• Different camera — e.g. closer on hands+phone impulse vs backup action; slight side angle; or wider shot that shows clear if→then flow.
+• Different pose — e.g. mid-reach toward phone then pausing; one hand stopping the unlock; breath beat then choosing a planned next action — match D3S2 backup mood, not D3S1 placing phone in drawer as the only story, not D2S5 tiny 10-sec pause alone without if-then.
 
 OUTPUT: 1:1 square, 1024×1024 pixels, PNG or JPG. No text, captions, logos, watermarks, or UI chrome in the image.
 
@@ -58,21 +58,21 @@ SKIN TONE (mandatory — copy from attached D2S1 reference):
 
 ── genrePref — STORY VIBE / atmosphere (how the image should FEEL) ──
 Frontend question: "What kind of vibe should [protagonist]'s story have? Which style keeps you most engaged as a reader?"
-Apply the same genre world as D2S1, framed around HARD-MOMENT BACKUP / if X then Y. Outfit LOCK still wins over costume cues. Genre decoration must NOT hide the if→then story.
+Apply the same genre world as D2S1, framed around HARD-MOMENT BACKUP / if X then Y. Outfit LOCK still wins over costume cues. Genre must NOT hide the if→then story — keep HUD/props secondary.
 • suspense (User chose A: Suspense — Sherlock / Knives Out)
-  Visual mood: cozy mystery — feed pull as a tempting clue; backup as a planned safe exit; cooler impulse side + warmer backup side.
-  REQUIRED stylistic cues — include 2–4: detective coat family if already in D2S1; soft tension on the pull; calm decisive backup; notebook with one if→then arrow (no readable text).
+  Visual mood: cozy mystery — the "pull" of the feed as a tempting clue, the backup as a planned safe exit; cool blue-grey + warm lamp on the backup side.
+  REQUIRED stylistic cues — include 2–4: detective coat family if already in D2S1; soft tension on the impulse side; calm decisive backup side; notebook with one if→then arrow (no readable text).
   Pose: almost opening the phone, then choosing the planned response.
   Still safe: non-horror, no blood, no weapons. Skin: fair 自然白皮偏黄.
 • comedy (User chose B: Comedy — The Good Place / Brooklyn Nine-Nine)
-  Visual mood: light sitcom hope — warmer soft light, teal + coral; gentle "oops autopilot" then "backup ready" timing.
-  REQUIRED stylistic cues — include 2–4: half-smile / raised eyebrow; clean set-like room; soft comic beat without slapstick injury.
+  Visual mood: light sitcom hope — warmer soft light, teal + coral; gentle comic timing on the almost-open fail then backup save.
+  REQUIRED stylistic cues — include 2–4: half-smile / raised eyebrow; clean set-like room; soft "oops autopilot" then "backup ready" beat; no slapstick injury.
   Pose: catching the autopilot reach with kind humor — safety rail, not lecture.
   Skin: fair 自然白皮偏黄 — bright soft face, NOT orange tan.
 • sci_fi (User chose C: Science fiction — Interstellar / The Martian / cyberpunk)
-  Visual mood: near-future cyberpunk — feed lure as soft glow; backup as a simple safety-rail / pause path (minimal HUD, no readable text); techwear ONLY if already in D2S1.
-  REQUIRED stylistic cues — include 3–5: cyan/magenta rim; soft holographic if→then (two abstract nodes + ONE arrow); NOT a doomscroll disaster spiral; NOT a wall of floating icons that buries the story.
-  Pose: finger hovering on unlock → breath/pause → planned next action.
+  Visual mood: near-future cyberpunk — feed pull as soft glowing lure; backup as a simple safety-rail / pause glyph (minimal HUD, no readable text); techwear ONLY if already in D2S1.
+  REQUIRED stylistic cues — include 3–5: cyan/magenta rim; soft holographic if→then path (two abstract nodes + arrow); NOT a doomscroll disaster spiral; NOT a wall of floating icons that buries the story.
+  Pose: finger hovering on unlock → pause → planned next action icon.
   Skin: fair 自然白皮偏黄 — neon rim OK on edges, face base matches D2S1.
 • real_life (User chose D: Real-life story — grounded drama / documentary)
   Visual mood: ordinary sofa/desk/waiting spot — muted true-to-life colors; calm, prepared expression; no fantasy costume.
@@ -83,7 +83,7 @@ Apply the same genre world as D2S1, framed around HARD-MOMENT BACKUP / if X then
 ── narrativeRole — CHARACTER ARC (how the protagonist ACTS in this scene) ──
 Frontend question: "How should [protagonist] tackle the challenges in the story? Which character arc would you enjoy watching?"
 • problem_solver (User chose A: Problem-solver)
-  Pose & expression: interrupting autopilot — one slow breath, then execute the planned backup with decisive calm.
+  Pose & expression: interrupting autopilot — pause, breathe, then execute the planned backup action with decisive calm.
 • explorer (User chose B: Explorer)
   Pose & expression: noticing the hard-moment pull, then discovering the backup as a safety rail — curious, observational, not frantic.
 • evidence_checker (User chose C: Evidence-checker)
@@ -91,38 +91,34 @@ Frontend question: "How should [protagonist] tackle the challenges in the story?
 
 ── analogyDomain — EVERYDAY METAPHOR WORLD (woven into background/props only) ──
 Frontend question: "When tricky science comes up in the story, which everyday world should comparisons use?"
-Do NOT write labels or paragraph text. Show ONE soft metaphor — D3S2 story idea: the backup is a safety rail or planned next move, not a lecture:
+Do NOT write labels or paragraph text. Show ONE soft metaphor — D3S2 story idea: backup is a safety rail / if X then Y — NOT a lecture:
 • cooking  → oven mitt / lid ready beside a hot pan — backup before the spill (background only)
 • sports   → soft background only: one safety cone / sideline rail / timeout gesture prop — NOT a full stadium; do not redesign hair/outfit
-• nature   → wooden handrail on a path / sturdy branch when the trail dips
-• machines → emergency stop / spare switch as abstract icons (no readable words)
-• routines → small prep card with icons only (e.g. rain → umbrella shapes, no text)
+• nature   → wooden handrail on a path / sturdy branch to hold when the trail dips
+• machines → emergency stop / spare switch / filter bypass as abstract icons (no readable words)
+• routines → small "if rainy → umbrella" style prep card with icons only (no text)
 
 IMPORTANT: analogyDomain = background props only. Never change protagonist hair, face, or core outfit because of the metaphor. Do NOT let sports/sci-fi props dominate the if→then story.
 
 ═══════════════════════════════════════════════════════════════
 SESSION TOPIC: D3S2 — BACKUP FOR HARD MOMENTS (Day 3 · check-in 2 of 5)
-Chat title (do not render as text): "A backup for hard moments 🌿"
+Chat title (do not render as text): "What will you do when the feed pulls? 🌿"
 ═══════════════════════════════════════════════════════════════
 
-Health communication focus (visualize; do NOT write as text — match the chapter story):
-1) At a hard moment (boredom/stress/one loud notification), [protagonistName] almost opens the feed on autopilot.
-2) [protagonistName] pauses — one slow breath — and chooses a planned backup instead of scrolling.
-3) The backup is a safety rail or planned next move (analogyDomain), not a lecture.
-4) Lock the shape: if the hard moment happens, then I use my response.
-Show PULL → PAUSE/BREATH → PLANNED BACKUP clearly enough that a thumbnail reader gets the logic in one glance.
+Health communication focus (visualize; do NOT write as text):
+A hard moment is when scrolling usually wins — the feed pulls and the hand almost opens the app on autopilot. A backup response is what you do instead: pause, breathe, then a planned next action. Form: if X, then Y. The backup is a safety rail, not a lecture. Show the PULL → PAUSE → PLANNED ACTION chain clearly enough that a thumbnail reader gets the logic in one glance.
 
 STORY COMPOSITION — MANDATORY (do not use "OR" to skip halves). A reader must understand the story without text:
-• LEFT or FIRST beat (cooler / slightly tense): hard-moment pull — hand almost unlocking phone / soft notification lure / autopilot reach. Soft, not horror; no disaster-news spiral. (Bored/stressed vibe OK; do NOT make a full bedroom+moon bedtime scene.)
-• CENTER bridge: pause + one slow breath — palm stopping, soft breath cue, or tiny pause glyph.
-• RIGHT or SECOND beat (warmer / calmer): planned backup action — ONE clear alternative (phone face-down, stand for water, open a book, walk to window, stretch). Must be visible as "instead of scrolling."
-• Link with ONE clear if→then device: arrow, two connected nodes, or safety-rail motif from pull → backup.
-• All three beats must appear. Missing the "before pull" OR the "backup action" = fail. Genre HUD/props are secondary to this story grammar.
+• LEFT or FIRST beat (cooler / slightly tense): hard-moment pull — hand almost unlocking phone / feed lure / autopilot reach. Soft, not horror; no disaster-news spiral.
+• CENTER bridge: pause + breathe — palm stopping, eyes closed briefly, or soft pause glyph.
+• RIGHT or SECOND beat (warmer / calmer): planned backup action — e.g. put phone down, stand up for water, open a book, walk to window, face-down phone — ONE clear alternative.
+• Link them with ONE clear visual if→then device: arrow, two connected nodes, or safety-rail motif from pull → backup.
+• Optional tiny if/then icon pair (abstract X → Y shapes, no letters). All three beats must appear; missing the "before pull" or the "backup action" makes the image fail.
 
 Required scene elements (D3S2-specific):
-• [protagonistName] in an everyday daytime/evening setting (sofa, desk, hallway, waiting spot — NOT bed+moon as main motif)
+• [protagonistName] in an everyday daytime/evening setting (sofa, desk, hallway, waiting spot — NOT bed/moon bedroom as the main motif)
 • Mood: prepared, calm, practical — NOT panicked, NOT ashamed, NOT preachy
-• Safety-rail metaphor allowed softly in background — supporting only
+• Safety-rail metaphor allowed softly in background (handrail, cone, mitt) — supporting only
 • Apply genrePref to color/lighting lightly; STORY COMPOSITION above outranks genre decoration
 • Show narrativeRole through pose and expression
 • Weave analogyDomain metaphor softly in background/props only
@@ -141,7 +137,7 @@ CRITICAL — DO NOT include (wrong session or wrong study):
 • Benefit-vs-cost balance scale (that is D2S4)
 • Tiny first-step celebration / 10-second pause ONLY with no planned backup action (that is D2S5)
 • Vague wish → drawer/calendar clear-rule as main motif (that is D3S1)
-• Environment cue-reduction / hiding apps / tidy desk as main motif (that is D3S3)
+• Environment cue-reduction / hiding phone apps / tidy desk as main motif (that is D3S3)
 • Gut microbiome, intestines, bacteria, medical diagrams (wrong topic)
 • Graphic violence, panic attack imagery, horror faces, readable paragraph text or app UI text
 • Shameful face or "delete social media" imagery
